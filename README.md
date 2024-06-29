@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pabitra-mahakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pabitra-mahakur" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pabitra-mahakur-a0a446294/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BkVF7A0G5SmGjQTioTA44xQ%3D%3D" alt="pabitra-mahakur" height="30" width="40" /></a>
 </p>
 
 

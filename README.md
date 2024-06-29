@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pabitra Mahakur</h1>
 <h3 align="center">I am a student at ITER Bhubneswar</h3>
 
-<img align="right" alt="coding" width="400" srs="https://www.bing.com/images/search?view=detailV2&ccid=wNGxHlTC&id=1AF5B4627E83A6D1903CFEC25FCB55EE8CAC7D04&thid=OIP.wNGxHlTCsH9zU90WDouoDQHaFj&mediaurl=https%3a%2f%2fimages.squarespace-cdn.com%2fcontent%2fv1%2f5769fc401b631bab1addb2ab%2f1541580611624-TE64QGKRJG8SWAIUS7NS%2fcoding-freak.gif&exph=600&expw=800&q=coading+gif&simid=608037180856287545&FORM=IRPRST&ck=88E93EE9E551F3611CC6EADFA0CEB852&selectedIndex=1&itb=0&ajaxhist=0&ajaxserp=0
+<img align="right" alt="coding" width="400" srs="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif
 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pabitra03&label=Profile%20views&color=0e75b6&style=flat" alt="pabitra03" /> </p>

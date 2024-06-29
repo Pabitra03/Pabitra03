@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pabitra Mahakur</h1>
 <h3 align="center">I am a student at ITER Bhubneswar</h3>
 
+<img align="right" alt="coding" width="400" srs="![coding-freak](https://github.com/Pabitra03/Pabitra03/assets/153710011/136b6c60-8fbc-43d6-915a-b945ebad98b3)">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pabitra03&label=Profile%20views&color=0e75b6&style=flat" alt="pabitra03" /> </p>
-![coding-freak](https://github.com/Pabitra03/Pabitra03/assets/153710011/136b6c60-8fbc-43d6-915a-b945ebad98b3)
 
 - 🌱 I’m currently learning **Web development course**
 

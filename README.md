@@ -5,9 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pabitra03&label=Profile%20views&color=0e75b6&style=flat" alt="pabitra03" /> </p>
 
 - 🌱 I’m currently learning **Web development course**
-
-- 📫 How to reach me **pabitramahakur3@gmail.com**
-
 - ⚡ Fun fact **I love to play games😅**
 
 <h3 align="left">Connect with me:</h3>

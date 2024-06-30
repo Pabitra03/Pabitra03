@@ -1,3 +1,4 @@
+![Logo](https://github.com/Pabitra03/Pabitra03/assets/153710011/a737b9f8-7a47-44d7-9d23-d2133079fcda)
 <h1 align="center">Hi 👋, I'm Pabitra Mahakur</h1>
 <h3 align="center">I am a student at ITER Bhubneswar</h3>
 <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">

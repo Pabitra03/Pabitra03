@@ -27,13 +27,13 @@
   <img width="400" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=pabitra03&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
 
-
+---
 <div align="center">
 
   ![Snake animation](https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake-dark.svg)
 
   ---
-  #### <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="60"> <em><b>Always up for a chat about and geeking out on all things tech!</b>💻<3</em>
+  #### <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="60"> <em><b>Thank You for Visiting My Profile!</b></em>
 
   <div id="header" align="center">
   <img src="https://visitcount.itsvg.in/api?id=pabitra03&style=for-the-badge&color=blue" alt=""/>

@@ -22,12 +22,12 @@
 
 
 <p align="centre">
-  <img width="600" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=pabitra03&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=pabitra03&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+<img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=pabitra03&show_icons=true&theme=vision-friendly-dark">
+<img width="400" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=pabitra03&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
 
 
----
-[![](https://visitcount.itsvg.in/api?id=pabitra03&icon=0&color=0)](https://visitcount.itsvg.in)</br>
 
-<img align="centre" alt="coding" width="400" src="https://giffiles.alphacoders.com/218/218663.gif">
+<div id="header" align="center">
+  <img src="https://visitcount.itsvg.in/api?id=pabitra03&style=for-the-badge&color=green" alt=""/>
+</div>

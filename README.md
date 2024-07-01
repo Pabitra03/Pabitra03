@@ -1,4 +1,3 @@
-![Banner](https://github.com/Pabitra03/Pabitra03/assets/153710011/8409fc36-8ddd-4f4e-8b6f-47347737bd20)
 # 💫 About Me:
 🔭 I’m a Student at SOA University, ITER Bhubneswar<br>🌱 I’m currently learning Web Development<br>⚡ Fun fact I love to play games😅
 

@@ -10,6 +10,7 @@
 <div>
   <img align="right" alt="coding" width="350" src="https://giffiles.alphacoders.com/218/218663.gif">
 </div>
+---
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pabitra03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=pabitra03&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>

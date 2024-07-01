@@ -21,13 +21,13 @@
 
 
 
-<div>
-<img align="centre" width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=pabitra03&show_icons=true&theme=vision-friendly-dark">
-<img align="centre" width="400" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=pabitra03&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
-</div>
+<p align="centre">
+   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=pabitra03&show_icons=true&theme=vision-friendly-dark">
+   <img width="400" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=pabitra03&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</p>
 
 
 
 <div id="header" align="center">
-  <img src="https://visitcount.itsvg.in/api?id=pabitra03&style=for-the-badge&color=green" alt=""/>
+  <img src="https://visitcount.itsvg.in/api?id=pabitra03&style=for-the-badge&color=blue" alt=""/>
 </div>

@@ -7,14 +7,27 @@
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
-<img align="right" alt="coding" width="360" src="https://giffiles.alphacoders.com/218/218663.gif">
+</div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pabitra03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=pabitra03&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pabitra03&theme=dark&hide_border=false)
+---
+
+
+<p align="centre">
+<img width="800" height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=pabitra03&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pabitra03&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<p align="centre">
+  <img width="600" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=pabitra03&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=pabitra03&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</p>
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=pabitra03&icon=0&color=0)](https://visitcount.itsvg.in)</br>
+
+<img align="centre" alt="coding" width="400" src="https://giffiles.alphacoders.com/218/218663.gif">

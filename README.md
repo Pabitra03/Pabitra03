@@ -9,9 +9,10 @@
 # 📊 GitHub Stats:
 <img align="right" alt="coding" width="400" src="https://giffiles.alphacoders.com/218/218663.gif">
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pabitra03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=pabitra03&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pabitra03&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pabitra03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=pabitra03&theme=dark&hide_border=false)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pabitra03&icon=0&color=0)](https://visitcount.itsvg.in)

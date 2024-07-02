@@ -32,8 +32,9 @@
 </p>
 
 ---
+# 📈 My Contributions:
 <div align="center">
-
+    
   <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Pabitra03/Pabitra03/output/snake.svg" alt="Snake animation" />

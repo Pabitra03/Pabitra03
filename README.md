@@ -30,7 +30,10 @@
 ---
 <div align="center">
 
-  ![Snake animation](https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake-dark.svg)
+  <br clear="both">
+
+<img src="https://raw.githubusercontent.com/Pabitra03/Pabitra03/output/snake.svg" alt="Snake animation" />
+
 
   ---
   #### <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="60"> <em><b>Thank You for Visiting My Profile!</b></em>

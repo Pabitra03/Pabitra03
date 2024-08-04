@@ -2,16 +2,16 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pabitra+Mahakur!;" />
 </h1>
 
-# 💫 About Me:
+## 👩‍💻 About Me :
 🔭 I’m a Student at SOA University, ITER Bhubneswar<br>🌱 I’m currently learning Web Development<br>⚡ Fun fact I love to play games😅
 
-# 🌐 Socials:
+## 🌐 Socials:
 <div align="left">
   <a href="https://www.linkedin.com/in/pabitra-mahakur-a0a446294/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 
-# 💻 Tech Stack:
+## 🛠 Language and tools:
 <div align="left">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -28,16 +28,29 @@
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
 </div>
 
-# 📊 GitHub Stats:
-</div>
+## 📊 GitHub Stats:
 
+---
+
+  
 <p align="center">
-  <img width="800" height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=pabitra03&theme=highcontrast&border_radius=5&card_width=540">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=pabitra03&show_icons=true&theme=vision-friendly-dark"><br>
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pabitra03&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=pabitra03&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
-# 📈 My Contributions:
+
+---
+
+
+
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=pabitra03&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabitra03&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</p>
+
+</div>
+
+## 📈 My Contributions:
 <div align="center">
     
   <br clear="both">

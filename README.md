@@ -32,7 +32,7 @@
 </div>
 
 <p align="center">
-  <img width="800" height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=pabitra03&theme=highcontrast&border_radius=5">
+  <img width="800" height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=pabitra03&theme=highcontrast&border_radius=5&card_width=540">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=pabitra03&show_icons=true&theme=vision-friendly-dark"><br>
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pabitra03&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>

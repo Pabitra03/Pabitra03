@@ -1,7 +1,7 @@
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pabitra+Mahakur!;" />
 </div>
-<p align="center"><img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/></p>      
+<p align="center"><img src="https://github.com/Pabitra03/Pabitra03/blob/main/neon-line.gif" alt="Neon Line" width="100%"/></p>      
 ## 👩‍💻 About Me :
 🔭 I’m a Student at SOA University, ITER Bhubneswar<br>🌱 I’m currently learning Web Development<br>⚡ Fun fact I love to play games😅
 

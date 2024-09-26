@@ -1,9 +1,7 @@
-<p align="center"><img src="https://github.com/Pabitra03/Pabitra03/blob/main/neon-line.gif" alt="Neon Line" width="100%"/></p>    
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pabitra+Mahakur!;" />
 </div>
-<p align="center"><img src="https://github.com/Pabitra03/Pabitra03/blob/main/neon-line02.gif" alt="Neon Line" width="100%"/></p>   
-
+<p align="center"><img src="https://github.com/Pabitra03/Pabitra03/blob/main/neon-line.gif" alt="Neon Line" width="100%"/></p>    
 
 ## 👩‍💻 About Me:
 🔭 I’m a Student at SOA University, ITER Bhubneswar<br>🌱 I’m currently learning Web Development<br>⚡ Fun fact I love to play games😅
@@ -65,7 +63,9 @@
 <img src="https://raw.githubusercontent.com/Pabitra03/Pabitra03/output/snake.svg" alt="Snake animation" />
 
 
-  ---
+<p align="center"><img src="https://github.com/Pabitra03/Pabitra03/blob/main/neon-line02.gif" alt="Neon Line" width="100%"/></p>   
+
+
   #### <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="60"> <em><b>Thank You for Visiting My Profile!</b></em>
 
   <div id="header" align="center">

@@ -1,7 +1,7 @@
-<h1 align="center">
+<div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pabitra+Mahakur!;" />
-</h1>
-
+</div>
+<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 ## 👩‍💻 About Me :
 🔭 I’m a Student at SOA University, ITER Bhubneswar<br>🌱 I’m currently learning Web Development<br>⚡ Fun fact I love to play games😅
 

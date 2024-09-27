@@ -9,14 +9,14 @@
 ## 🌐 Socials:
 <div align="left">
   <a href="https://www.linkedin.com/in/pabitra-mahakur-a0a446294/" target="_blank">
-    <img src="https://github.com/Pabitra03/Pabitra03/blob/main/Linkedin.gif" width="42" height="40" alt="linkedin logo"  />
+    <img src="https://github.com/Pabitra03/Pabitra03/blob/main/Animated%20Icons/Linkedin01.gif" width="52" height="50" alt="linkedin logo"  />
   </a>
 
 ## 🛠 Language and tools:
 <div align="left">
 
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" height="50px" alt="HTML"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" height="50px" alt="CSS"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" height="50px" alt="JavaScript"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px" height="50px" alt="Java"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" height="50px" alt="Python"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" height="50px" alt="Git"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px" height="50px" alt="VS Code"/> |
+| <img src="https://github.com/Pabitra03/Pabitra03/blob/main/Animated%20Icons/html.gif" width="50px" height="50px" alt="HTML"/> | <img src="https://github.com/Pabitra03/Pabitra03/blob/main/Animated%20Icons/css.gif" width="50px" height="50px" alt="CSS"/> | <img src="https://github.com/Pabitra03/Pabitra03/blob/main/Animated%20Icons/java%20script.gif" width="50px" height="50px" alt="JavaScript"/> | <img src="https://github.com/Pabitra03/Pabitra03/blob/main/Animated%20Icons/java.gif" width="50px" height="50px" alt="Java"/> | <img src="https://github.com/Pabitra03/Pabitra03/blob/main/Animated%20Icons/python.gif" width="50px" height="50px" alt="Python"/> | <img src="https://github.com/Pabitra03/Pabitra03/blob/main/Animated%20Icons/git.gif" width="80px" height="50px" alt="Git"/> | <img src="https://github.com/Pabitra03/Pabitra03/blob/main/Animated%20Icons/Vs%20code.gif" width="50px" height="50px" alt="VS Code"/> |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **HTML** | **CSS** | **JavaScript** | **Java** | **Python** | **Git** | **VS Code** |
 

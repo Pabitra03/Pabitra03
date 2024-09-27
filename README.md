@@ -12,7 +12,7 @@
     <img src="https://github.com/Pabitra03/Pabitra03/blob/main/Animated%20Icons/Linkedin01.gif" width="50px" height="50px" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/mahakur03" taget="_blank">
-      <img src ="" width="50px" height="50px" alt="twitter logo" />
+      <img src ="https://github.com/Pabitra03/Pabitra03/blob/main/Animated%20Icons/twitter.gif" width="50px" height="50px" alt="twitter logo" />
   </a>
 
 ## 🛠 Language and tools:

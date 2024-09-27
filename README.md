@@ -11,6 +11,9 @@
   <a href="https://www.linkedin.com/in/pabitra-mahakur-a0a446294/" target="_blank">
     <img src="https://github.com/Pabitra03/Pabitra03/blob/main/Animated%20Icons/Linkedin01.gif" width="50px" height="50px" alt="linkedin logo"  />
   </a>
+  <a href="https://x.com/mahakur03" taget="_blank">
+      <img src ="" width="50px" height="50px" alt="twitter logo" />
+  </a>
 
 ## 🛠 Language and tools:
 <div align="left">

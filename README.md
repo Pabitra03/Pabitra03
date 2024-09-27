@@ -9,7 +9,7 @@
 ## 🌐 Socials:
 <div align="left">
   <a href="https://www.linkedin.com/in/pabitra-mahakur-a0a446294/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://github.com/Pabitra03/Pabitra03/blob/main/Linkedin.gif" width="42" height="40" alt="linkedin logo"  />
   </a>
 
 ## 🛠 Language and tools:

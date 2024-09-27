@@ -28,28 +28,11 @@
 
 ## 📊 GitHub Stats:
 
----
-
-  
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=pabitra03&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
-
-
----
-
-
-
-
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=pabitra03&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabitra03&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
-</p>
-
-
----
-
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Pabitra03&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pabitra03&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pabitra03&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 
 ## 📈 My Contributions:

@@ -4,7 +4,7 @@
 <p align="center"><img src="https://github.com/Pabitra03/Pabitra03/blob/main/neon-line.gif" alt="Neon Line" width="100%"/></p>    
 
 ## 👩‍💻 About Me:
-🔭 I’m a Student at SOA University, ITER Bhubneswar<br>🌱 I’m currently learning jQuery<br>⚡ Fun fact I love to play games😅
+🔭 I’m a Student at SOA University, ITER Bhubneswar<br>🌱 I’m currently learning react with vite<br>⚡ Fun fact I love to play games😅
 
 ## 🌐 Socials:
 <div align="left">

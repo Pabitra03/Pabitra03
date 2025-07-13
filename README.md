@@ -16,12 +16,18 @@
   </a>
 
 ## 🛠 Language and tools:
-<div align="left">
 
-| <a href="https://www.w3schools.com/html/" targrt="_blank"><img src="https://github.com/Pabitra03/Pabitra03/blob/main/Animated%20Icons/html.gif" width="50px" height="50px" alt="HTML"/><a/> | <a href="https://www.w3schools.com/css/" taget="_blank"><img src="https://github.com/Pabitra03/Pabitra03/blob/main/Animated%20Icons/css.gif" width="50px" height="50px" alt="CSS"/></a> | <a href="https://www.w3schools.com/js/DEFAULT.asp" taget="_blank"><img src="https://github.com/Pabitra03/Pabitra03/blob/main/Animated%20Icons/java%20script.gif" width="50px" height="50px" alt="JavaScript"/></a> | <a href="https://www.w3schools.com/js/DEFAULT.asp" taget="_blank"><img src="https://github.com/Pabitra03/Pabitra03/blob/main/Animated%20Icons/physics.gif?raw=true" width="50px" height="50px" alt="React"/></a> | <a href="https://www.w3schools.com/java/" target="_blank"><img src="https://github.com/Pabitra03/Pabitra03/blob/main/Animated%20Icons/java.gif" width="50px" height="50px" alt="Java"/></a>  | <a href="https://www.w3schools.com/python/" targrt="_blank"><img src="https://github.com/Pabitra03/Pabitra03/blob/main/Animated%20Icons/python.gif" width="50px" height="50px" alt="Python"/></a> | <a href="https://www.w3schools.com/git/default.asp" target="_blank"> <img src="https://github.com/Pabitra03/Pabitra03/blob/main/Animated%20Icons/git.gif" width="80px" height="50px" alt="Git"/></a> | <a href="https://code.visualstudio.com/" target="_blank"><img src="https://github.com/Pabitra03/Pabitra03/blob/main/Animated%20Icons/Vs%20code.gif" width="50px" height="50px" alt="VS Code"/></a> |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **HTML** | **CSS** | **JavaScript** | **React**| **Java** | **Python** | **Git** | **VS Code** |
-</div>
+| HTML | CSS | JavaScript | React | Vite |
+|------|-----|------------|--------|------|
+| ![HTML](https://skillicons.dev/icons?i=html) | ![CSS](https://skillicons.dev/icons?i=css) | ![JavaScript](https://skillicons.dev/icons?i=js) | ![React](https://skillicons.dev/icons?i=react) | ![Vite](https://skillicons.dev/icons?i=vite) |
+
+| Java | Python |
+|------|--------|
+| ![Java](https://skillicons.dev/icons?i=java) | ![Python](https://skillicons.dev/icons?i=python) |
+
+| Git | GitHub | VS Code |
+|-----|--------|---------|
+| ![Git](https://skillicons.dev/icons?i=git) | ![GitHub](https://skillicons.dev/icons?i=github) | ![VS Code](https://skillicons.dev/icons?i=vscode) |
 
 ## 📊 GitHub Stats:
 
@@ -46,6 +52,6 @@
   #### <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="60"> <em><b>Thank You for Visiting My Profile!</b></em>
 
   <div id="header" align="center">
-  <img src="https://visitcount.itsvg.in/api?id=pabitra03&style=for-the-badge&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Pabitra03&style=for-the-badge&color=blue" alt="Profile Views" />
 </div>
 </div>

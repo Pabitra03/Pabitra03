@@ -3,8 +3,13 @@
 </div>
 <p align="center"><img src="https://github.com/Pabitra03/Pabitra03/blob/main/neon-line.gif" alt="Neon Line" width="100%"/></p>    
 
-## 👩‍💻 About Me:
-🔭 I’m a Student at SOA University, ITER Bhubneswar<br>🌱 I’m currently learning react with vite<br>⚡ Fun fact I love to play games😅
+## 👨‍💻 About Me
+
+🎓 I'm a B.Tech student at SOA University, ITER Bhubaneswar  
+🌱 Currently diving deep into React and Vite to build modern web apps  
+🎮 Fun fact: When I'm not coding, you'll probably find me gaming 😄  
+🚀 Passionate about web development, problem-solving, and learning new technologies
+
 
 ## 🌐 Socials:
 <div align="left">

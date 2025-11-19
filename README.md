@@ -38,7 +38,7 @@ fun_fact: "I turn coffee into code! ☕➡️💻"
 
 <div align="center">
 
-## 🌐 Let's Connect
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Connect With Me </b>
 
 <br>
 

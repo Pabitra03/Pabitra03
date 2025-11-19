@@ -38,19 +38,21 @@ fun_fact: "I turn coffee into code! ☕➡️💻"
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Connect With Me </b>
+## 🌐 Let's Connect
 
-</div>
+<br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pabitra-mahakur-a0a446294/" target="_blank">
-    <img src="https://github.com/Pabitra03/Pabitra03/blob/main/Animated%20Icons/Linkedin01.gif" width="80px" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/mahakur03" target="_blank">
-    <img src="https://github.com/Pabitra03/Pabitra03/blob/main/Animated%20Icons/twitter.gif" width="80px" alt="Twitter"/>
-  </a>
+<a href="https://www.linkedin.com/in/pabitra-mahakur-a0a446294/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/></a><!--
+-->&nbsp;&nbsp;<!--
+--><a href="https://x.com/mahakur03" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" height="40"/></a><!--
+-->&nbsp;&nbsp;<!--
+--><a href="mailto:pabitramahakur03@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="40"/></a>
 </p>
+
+💡 *Open to collaborations and interesting projects!*
+
+</div>
 
 <br>
 
@@ -186,16 +188,6 @@ fun_fact: "I turn coffee into code! ☕➡️💻"
 
 <div align="center">
 
-### 💡 Dev Quote of the Day
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
 ### 💬 Let's Connect and Build Something Great!
 
 <br>
@@ -203,8 +195,6 @@ fun_fact: "I turn coffee into code! ☕➡️💻"
 <img src="https://komarev.com/ghpvc/?username=Pabitra03&label=PROFILE+VIEWS&color=00FFFF&style=for-the-badge" alt="Profile Views" />
 
 </div>
-
-<br>
 
 <br>
 

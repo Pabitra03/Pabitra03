@@ -1,62 +1,219 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pabitra+Mahakur!;" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pabitra%20Mahakur&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 </div>
-<p align="center"><img src="https://github.com/Pabitra03/Pabitra03/blob/main/neon-line.gif" alt="Neon Line" width="100%"/></p>    
 
-## 👨‍💻 About Me
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+There!+I'm+Pabitra+%F0%9F%91%8B;B.Tech+Student+%7C+Web+Developer+%F0%9F%92%BB;Building+the+Future+One+Line+at+a+Time+%F0%9F%9A%80;Welcome+to+My+Digital+Space!+%E2%9C%A8" alt="Typing SVG" />
+</div>
 
-🎓 I'm a B.Tech student at SOA University, ITER Bhubaneswar  
-🌱 Currently diving deep into React and Vite to build modern web apps  
-🎮 Fun fact: When I'm not coding, you'll probably find me gaming 😄  
-🚀 Passionate about web development, problem-solving, and learning new technologies
+<br>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
+</p>
 
-## 🌐 Socials:
-<div align="left">
+<br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> About Me
+
+```yaml
+name: Pabitra Mahakur
+located_in: Bhubaneswar, India
+current_education: B.Tech @ SOA University, ITER
+current_focus: 
+  - React Development
+  - Vite Build Tool
+  - Modern Web Technologies
+fields_of_interest:
+  - Full Stack Development
+  - UI/UX Design
+  - Problem Solving
+  - Open Source Contribution
+currently_learning: ["React", "Advanced JavaScript", "System Design"]
+hobbies: ["Gaming 🎮", "Coding 💻", "Learning 📚", "Exploring New Tech 🔍"]
+fun_fact: "I turn coffee into code! ☕➡️💻"
+```
+
+<br>
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Connect With Me </b>
+
+</div>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/pabitra-mahakur-a0a446294/" target="_blank">
-    <img src="https://github.com/Pabitra03/Pabitra03/blob/main/Animated%20Icons/Linkedin01.gif" width="50px" height="50px" alt="linkedin logo"  />
+    <img src="https://github.com/Pabitra03/Pabitra03/blob/main/Animated%20Icons/Linkedin01.gif" width="80px" alt="LinkedIn"/>
   </a>
-  <a href="https://x.com/mahakur03" taget="_blank">
-      <img src ="https://github.com/Pabitra03/Pabitra03/blob/main/Animated%20Icons/twitter.gif" width="50px" height="50px" alt="twitter logo" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/mahakur03" target="_blank">
+    <img src="https://github.com/Pabitra03/Pabitra03/blob/main/Animated%20Icons/twitter.gif" width="80px" alt="Twitter"/>
   </a>
+</p>
 
-## 🛠 Language and tools:
+<br>
 
-| HTML | CSS | JavaScript | React | Vite |
-|------|-----|------------|--------|------|
-| ![HTML](https://skillicons.dev/icons?i=html) | ![CSS](https://skillicons.dev/icons?i=css) | ![JavaScript](https://skillicons.dev/icons?i=js) | ![React](https://skillicons.dev/icons?i=react) | ![Vite](https://skillicons.dev/icons?i=vite) |
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-| Java | Python |
-|------|--------|
-| ![Java](https://skillicons.dev/icons?i=java) | ![Python](https://skillicons.dev/icons?i=python) |
+<br>
 
-| Git | GitHub | VS Code |
-|-----|--------|---------|
-| ![Git](https://skillicons.dev/icons?i=git) | ![GitHub](https://skillicons.dev/icons?i=github) | ![VS Code](https://skillicons.dev/icons?i=vscode) |
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Tech Arsenal
 
-## 📊 GitHub Stats:
+<br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Pabitra03&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Pabitra03&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pabitra03&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+<table>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="60" height="60" />
+      <br><strong>React</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="60" height="60" />
+      <br><strong>JavaScript</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML" />
+      <br><strong>HTML5</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="CSS" />
+      <br><strong>CSS3</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=vite" width="60" height="60" alt="Vite" />
+      <br><strong>Vite</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="60" height="60" />
+      <br><strong>Java</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60" height="60" />
+      <br><strong>Python</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=flutter" width="60" height="60" alt="Flutter" />
+      <br><strong>Flutter</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=dart" width="60" height="60" alt="Dart" />
+      <br><strong>Dart</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub" />
+      <br><strong>GitHub</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git" />
+      <br><strong>Git</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=vscode" width="60" height="60" alt="VS Code" />
+      <br><strong>VS Code</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="60" height="60" alt="Git Bash" />
+      <br><strong>Git Bash</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=postman" width="60" height="60" alt="Postman" />
+      <br><strong>Postman</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=npm" width="60" height="60" alt="NPM" />
+      <br><strong>NPM</strong>
+    </td>
+  </tr>
+</table>
+
 </div>
 
+<br>
 
-## 📈 My Contributions:
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Analytics </b>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/Pabitra03">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pabitra03&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=false&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&border_color=00FFFF"/></a><!--
+  --><a href="https://github.com/Pabitra03"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pabitra03&layout=compact&langs_count=8&theme=algolia&hide_border=false&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&border_color=00FFFF"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Pabitra03">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pabitra03&theme=algolia&hide_border=false&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FF6B6B&currStreakLabel=00FFFF&border=00FFFF" alt="GitHub Streak"/>
+  </a>
+</p>
+
+<br>
+
 <div align="center">
-    
-  <br clear="both">
-
-<img src="https://raw.githubusercontent.com/Pabitra03/Pabitra03/output/snake.svg" alt="Snake animation" />
-
-
-<p align="center"><img src="https://github.com/Pabitra03/Pabitra03/blob/main/neon-line02.gif" alt="Neon Line" width="100%"/></p>   
-
-
-  #### <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="60"> <em><b>Thank You for Visiting My Profile!</b></em>
-
-  <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pabitra03&style=for-the-badge&color=blue" alt="Profile Views" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pabitra03&custom_title=Contribution%20Graph&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area_color=00FFFF&area=true&hide_border=false&border_color=00FFFF" alt="Contribution Graph"/>
 </div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Coding Activity**
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Pabitra03/Pabitra03/output/snake.svg" alt="Snake Animation"/>
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+<div align="center">
+
+### 💡 Dev Quote of the Day
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 💬 Let's Connect and Build Something Great!
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Pabitra03&label=PROFILE+VIEWS&color=00FFFF&style=for-the-badge" alt="Profile Views" />
+
+</div>
+
+<br>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+  
+  **Made with ❤️ by Pabitra Mahakur**
 </div>

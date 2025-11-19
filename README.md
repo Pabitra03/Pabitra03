@@ -47,7 +47,8 @@ fun_fact: "I turn coffee into code! ☕➡️💻"
 -->&nbsp;&nbsp;<!--
 --><a href="https://x.com/mahakur03" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" height="40"/></a><!--
 -->&nbsp;&nbsp;<!--
---><a href="mailto:pabitramahakur03@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="40"/></a>
+--><a href="mailto:pabitramahakur03@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="40"/>
+</a>
 </p>
 
 💡 *Open to collaborations and interesting projects!*
@@ -188,7 +189,7 @@ fun_fact: "I turn coffee into code! ☕➡️💻"
 
 <div align="center">
 
-### 💬 Let's Connect and Build Something Great!
+### 🕉️ ॐ कृष्णाय वासुदेवाय हरये परमात्मने प्रणतः क्लेशनाशाय गोविन्दाय नमो नमः ॥ 🕉️
 
 <br>
 

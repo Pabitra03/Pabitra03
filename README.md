@@ -192,7 +192,7 @@ fun_fact: "I turn coffee into code! ☕➡️💻"
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Pabitra03&label=PROFILE+VIEWS&color=00FFFF&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Pabitra03&label=PROFILE+VIEWS&color=8725DA&style=for-the-badge" alt="Profile Views" />
 
 </div>
 

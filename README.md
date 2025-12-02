@@ -157,7 +157,8 @@ fun_fact: "I turn coffee into code! ☕➡️💻"
 
 <p align="center">
   <a href="https://github.com/Pabitra03">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pabitra03&theme=algolia&hide_border=false&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FF6B6B&currStreakLabel=00FFFF&border=00FFFF" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pabitra03&theme=tokyonight&hide_border=false&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FF6B6B&currStreakLabel=00FFFF&border=00FFFF" alt="GitHub Streak"/>
+
   </a>
 </p>
 

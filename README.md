@@ -162,14 +162,6 @@ fun_fact: "I turn coffee into code! ☕➡️💻"
   </a>
 </p>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pabitra03&custom_title=Contribution%20Graph&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area_color=00FFFF&area=true&hide_border=false&border_color=00FFFF" alt="Contribution Graph"/>
-</div>
-
-<br>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
